@@ -10,5 +10,5 @@
 - ```ensure nertigel_base``` in `server.cfg`
 
 ## Credits:
-- https://github.com/Kuzkay
+- https://github.com/Kuzkay for his Kuzkay_Coke and for medSystem
 - 𝔙𝔞𝔩𝔥𝔞𝔩𝔩𝔞#9605 for lootCorpse
