@@ -1,6 +1,6 @@
 print("Nertigel's Base Loaded.")
 
--- dependency 'es_extended'
+dependency 'es_extended'
 
 client_scripts {
   	-- base
